@@ -5,7 +5,7 @@
    marquesina
   </title>
  </head>
- <body background="f10.jpeg">
+ <body>
 
      <marquee direction="rigth" width="850"
   height="300">
